@@ -1,0 +1,160 @@
+a dove on the left of a tiger
+a basketball on the left of a dog
+a butterfly on the left of a bird
+a bowl on the left of a crow
+a rabbit on the left of a bowl
+a basket on the left of a panda
+a cup on the left of a panda
+a drone on the left of an airplane
+a chair on the left of a bird
+a tiger on the left of a butterfly
+an egg on the left of a volleyball
+an airplane on the left of a feather
+a bowl on the left of a spoon
+a hat on the left of a basket
+an elephant on the left of a drone
+a basket on the left of an egg
+a dove on the left of a spoon
+a spoon on the left of a chair
+a chair on the left of a crow
+a tiger on the left of a chair
+a basketball on the left of a tiger
+a cup on the left of a ukulele
+a dog on the left of a cup
+a clam on the left of a drone
+a crow on the left of a watch
+a rabbit on the left of an egg
+a butterfly on the left of a dove
+a spoon on the left of a drone
+a watch on the left of a bird
+a bowl on the left of an egg
+a panda on the left of an airplane
+a butterfly on the left of a bowl
+an ant on the left of a bowl
+a crow on the left of a watch
+a ukulele on the left of a bird
+a hat on the left of a penguin
+a basket on the left of a table
+an ant on the left of a basket
+a basket on the left of a tiger
+a bird on the left of a panda
+a cup on the right of a ukulele
+a hat on the right of a clam
+a spoon on the right of a penguin
+a penguin on the right of a bowl
+an egg on the right of a volleyball
+a cup on the right of an ant
+a tiger on the right of a basketball
+a bowl on the right of a volleyball
+an egg on the right of a dog
+a spoon on the right of a basket
+a volleyball on the right of a dove
+an egg on the right of a hat
+an ant on the right of an airplane
+a basketball on the right of a rabbit
+a chair on the right of a panda
+an egg on the right of a butterfly
+an egg on the right of an elephant
+a bowl on the right of a ukulele
+a bowl on the right of an ant
+a ukulele on the right of a basketball
+a drone on the right of a basketball
+a penguin on the right of a spoon
+an airplane on the right of a rabbit
+a hat on the right of a penguin
+an egg on the right of an elephant
+a ukulele on the right of a rabbit
+a spoon on the right of an ant
+a bird on the right of an egg
+a feather on the right of a hat
+a cup on the right of an elephant
+a tiger on the right of a panda
+a butterfly on the right of an egg
+a rabbit on the right of an elephant
+a butterfly on the right of a chair
+a table on the right of a bowl
+a drone on the right of a spoon
+a dove on the right of a watch
+a table on the right of a feather
+a panda on the right of a hat
+a dove on the right of a chair
+a dove on the top of a basketball
+a feather on the top of a clam
+a feather on the top of a drone
+a bird on the top of a watch
+a dove on the top of a volleyball
+a spoon on the top of a table
+an ant on the top of a feather
+a feather on the top of a volleyball
+an ant on the top of a crow
+a feather on the top of a panda
+an ant on the top of a basketball
+a dove on the top of a table
+an egg on the top of a bowl
+an ant on the top of a basketball
+a pearl on the top of a ukulele
+a butterfly on the top of a table
+a feather on the top of a basketball
+a watch on the top of a unicorn
+a dove on the top of a chair
+a pearl on the top of a clam
+a watch on the top of a penguin
+a bowl on the top of a cup
+a chair on the top of a table
+a bowl on the top of a hat
+a watch on the top of a panda
+a pearl on the top of an egg
+a drone on the top of a volleyball
+a dove on the top of an egg
+a drone on the top of a basketball
+a dove on the top of a chair
+a cup on the top of a chair
+a dove on the top of a chair
+a ukulele on the top of a basketball
+a crow on the top of an airplane
+a volleyball on the top of a basketball
+a rabbit on the top of a tiger
+an ant on the top of a spoon
+a spoon on the top of a cup
+a crow on the top of a penguin
+a bird on the top of a watch
+a rabbit under an airplane
+a feather under a panda
+an egg under a crow
+a basket under a hat
+a watch under a pearl
+a spoon under a penguin
+a spoon under a drone
+a cup under a watch
+a pearl under an octopus
+a bowl under a basketball
+a penguin under a drone
+a ukulele under a tiger
+a rabbit under an elephant
+a butterfly under a volleyball
+a watch under a panda
+a bird under a basketball
+a rabbit under a hat
+an ant under an elephant
+a butterfly under a cup
+a spoon under a tiger
+a basket under an airplane
+a dove under a chair
+a feather under a table
+a butterfly under a ukulele
+a feather under a table
+a crow under a basket
+a feather under a rabbit
+a hat under an airplane
+a hat under a tiger
+a feather under a rabbit
+a rabbit under an elephant
+a clam under a dog
+a butterfly under a hat
+a basketball under a tiger
+an egg under a cup
+a spoon under a table
+a basketball under a table
+an octopus under a table
+a crow under a basketball
+a butterfly under a basketball
